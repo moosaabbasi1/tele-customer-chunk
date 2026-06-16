@@ -4,4 +4,4 @@ seaborn
 numpy 
 pandas
 streamlit
-
+joblib
